@@ -1,6 +1,6 @@
 # Interior Design Portfolio Website
 
-A modern portfolio website for an interior design business with a Flask backend and MySQL database.
+A modern portfolio website for an interior design business having a Flask backend and MySQL database.
 
 ## Features
 
